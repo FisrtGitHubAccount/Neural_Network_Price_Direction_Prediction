@@ -47,3 +47,7 @@ samples (drawn similarly as those in Data_A.csv) but with labels omitted.
   of Data_A.csv.
 - (B) Use the binary classifier created in part (A) to predict the labels missing
   from Data_B_nolabels.csv, which is 20000 predictions of the form 0/1.
+
+## Comment
+
+I was working primarily on Google colab. In case the file does not run properly somehow, I suspect that it's simply a syntax different in importing the data files.
