@@ -50,4 +50,4 @@ samples (drawn similarly as those in Data_A.csv) but with labels omitted.
 
 ## Comment
 
-I was working primarily on Google colab. In case the file does not run properly somehow, I suspect that it's simply a syntax different in importing the data files.
+I was working primarily on Google colab. In case the file does not run properly somehow, I suspect that it's simply syntax differences in importing the data files.
