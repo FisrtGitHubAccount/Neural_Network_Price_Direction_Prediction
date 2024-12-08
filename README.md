@@ -8,7 +8,7 @@ and Data_B_nolabels.csv.
 Firstly, Data_A.csv contains a 200000×22 array with the following information:
 
 - Column 1: the label — midprice change direction (we define
-  $ midprice =\frac{bid + ask}{2}$
+  $$ \text{midprice} =\frac{bid + ask}{2} $$
   ) coded as follows: 0 down, 1 up.
 - Columns 2–22: the features, all recorded just prior to the midprice change
   corresponding to the label.
